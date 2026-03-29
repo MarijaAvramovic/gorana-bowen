@@ -56,7 +56,7 @@ function App() {
           </h2>
           
           <p className="text-xl md:text-2xl lg:text-3xl text-white/90 max-w-3xl mx-auto mb-14">
-            Nežne i moćne Bowen & Emmett tehnike za duboko iscjeljenje
+            Nežne i moćne Bowen & Emmett tehnike za duboko isceljenje
           </p>
 
           <a href="#kontakt" 
@@ -95,7 +95,7 @@ function App() {
             <div className="space-y-6">
               <div className="bg-white rounded-3xl p-10 shadow-xl border border-sky-100">
                 <h4 className="text-3xl md:text-4xl font-semibold mb-6 text-[#0F172A]">Bowen Terapija</h4>
-                <p className="text-base md:text-lg text-[#475569]">Nežni valjajući pokreti koji stimulišu nervni sistem i pokreću prirodno iscjeljenje.</p>
+                <p className="text-base md:text-lg text-[#475569]">Nežni valjajući pokreti koji stimulišu nervni sistem i pokreću prirodno isceljenje.</p>
               </div>
               <img src={session3} alt="Bowen terapija" className="rounded-3xl shadow-xl w-full" />
             </div>
