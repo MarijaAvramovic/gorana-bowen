@@ -28,7 +28,7 @@ function App() {
             </div>
             <div>
               <h1 className="text-3xl md:text-5xl font-bold tracking-tighter">Gorana</h1>
-              <p className="text-xs md:text-sm -mt-1 text-[#3B82F6] font-medium tracking-[3px]">BOWEN & EMMET</p>
+              <p className="text-xs md:text-sm -mt-1 text-[#3B82F6] font-medium tracking-[3px]">BOWEN & EMMETT</p>
             </div>
           </div>
 
@@ -49,14 +49,14 @@ function App() {
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70"></div>
         
         <div className="max-w-5xl mx-auto px-6 md:px-8 text-center relative z-10 pt-12">
-          <p className="uppercase tracking-[5px] text-white/90 text-sm mb-6">Bowen & Emmet Terapeut • Beograd</p>
+          <p className="uppercase tracking-[5px] text-white/90 text-sm mb-6">Bowen & Emmett Terapeut • Beograd</p>
           
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-none tracking-tighter text-white mb-8">
             Gorana
           </h2>
           
           <p className="text-xl md:text-2xl lg:text-3xl text-white/90 max-w-3xl mx-auto mb-14">
-            Nežne i moćne Bowen & Emmet tehnike za duboko iscjeljenje
+            Nežne i moćne Bowen & Emmett tehnike za duboko iscjeljenje
           </p>
 
           <a href="#kontakt" 
@@ -73,7 +73,7 @@ function App() {
             <div>
               <h3 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#0F172A] mb-10">O meni</h3>
               <div className="text-lg md:text-xl leading-relaxed text-[#334155]">
-                Ja sam Gorana, terapeut Bowen i Emmet tehnike u Beogradu. 
+                Ja sam Gorana, terapeut Bowen i Emmett tehnike u Beogradu. 
                 Specijalizovala sam se za nežne, neinvazivne metode koje pomažu telu da se prirodno resetuje i isceli.
               </div>
             </div>
@@ -102,10 +102,10 @@ function App() {
 
             <div className="space-y-6">
               <div className="bg-white rounded-3xl p-10 shadow-xl border border-sky-100">
-                <h4 className="text-3xl md:text-4xl font-semibold mb-6 text-[#0F172A]">Emmet Tehnika</h4>
+                <h4 className="text-3xl md:text-4xl font-semibold mb-6 text-[#0F172A]">Emmett Tehnika</h4>
                 <p className="text-base md:text-lg text-[#475569]">Precizna tehnika za brzo oslobađanje napetosti i bola.</p>
               </div>
-              <img src={session4} alt="Emmet tehnika" className="rounded-3xl shadow-xl w-full" />
+              <img src={session4} alt="emmett tehnika" className="rounded-3xl shadow-xl w-full" />
             </div>
           </div>
         </div>
@@ -161,7 +161,7 @@ function App() {
       </section>
 
       <footer className="py-10 md:py-12 bg-white text-center text-sm text-slate-500">
-        Gorana • Bowen & Emmet Terapeut
+        Gorana • Bowen & Emmett Terapeut
       </footer>
     </div>
   );
